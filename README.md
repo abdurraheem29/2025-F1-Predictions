@@ -27,8 +27,8 @@ A machine learning-based Formula 1 race prediction system that uses historical r
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/2025_f1_predictions.git
-cd 2025_f1_predictions
+git clone https://github.com/abdurraheem29/2025-F1-Predictions.git
+cd 2025-F1-Predictions
 ```
 
 2. Create and activate a virtual environment:
