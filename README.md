@@ -90,23 +90,4 @@ The script generates three-panel visualization plots:
 - seaborn
 - xgboost
 
-## Project Structure
-
-```
-2025_f1_predictions/
-├── prediction4.py      # Main prediction script
-├── requirements.txt    # Project dependencies
-├── README.md          # Project documentation
-└── f1_cache/          # FastF1 data cache
-```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Acknowledgments
-
-- FastF1 API for providing Formula 1 race data
-- Formula 1 for the sport and data
-- All contributors and maintainers of the used libraries
 
